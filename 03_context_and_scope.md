@@ -9,8 +9,7 @@ asientos contables generados por sus operaciones.
 
 A continuación se muestra el diagrama de contexto (C1) del sistema:
 
-![Diagrama de Contexto](c1_context.png)
-
+![Diagrama de Contexto](documentos/c1_context.png)
 ## Explicación
 - El **Administrador de Compras** usa el ERP para registrar productos
   y proveedores.
