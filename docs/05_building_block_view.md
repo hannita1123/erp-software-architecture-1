@@ -7,7 +7,7 @@ se relacionan entre sí.
 
 A continuación se muestra el diagrama de contenedores (C2) del sistema:
 
-![Diagrama de Contenedores](c2_contenedores.png)
+![Diagrama de Contenedores](c2_containers.png)
 
 ## Responsabilidad de cada contenedor
 
